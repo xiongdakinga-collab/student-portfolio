@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "releaseRepository": "q1433031046-ship-it/student-portfolio-cloudflare",
+  "releaseTag": "v1.3.2",
+  "releaseCommit": "a7f0b7e9b8be4bea692c0e8724856b914421aa43",
+  "releaseTree": "8c510fedb48461042f73096ef6cd9c174f86a1ed",
+  "siteRepository": "xiongdakinga-collab/student-portfolio",
+  "applicationSource": "verified unchanged from release",
+  "cloudflareBuildCommand": "npm run cloudflare:fingerprint",
+  "cloudflareDeployCommand": "npm run cloudflare:deploy",
+  "note": "Resume the provisioned site with the existing Worker, D1, MEDIA_KV, secret binding and free plan. No application source or resource identifier changes."
+}
